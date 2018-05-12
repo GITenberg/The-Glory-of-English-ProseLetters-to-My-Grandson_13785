@@ -1,0 +1,32 @@
+_repo: The-Glory-of-English-ProseLetters-to-My-Grandson_13785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleridge, Stephen
+    birthdate: 1854
+    deathdate: 1936
+    gutenberg_agent_id: '5218'
+    url: http://www.gutenberg.org/2009/agents/5218
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Coleridge
+description: ''
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13785'
+  lccn: '22017793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English prose literature -- History and criticism'
+- !lcsh 'English language -- Great Britain -- Style'
+- !lcsh 'Coleridge, Stephen, 1854-1936'
+title: 'The Glory of English Prose
+
+  Letters to My Grandson'
+url: http://www.gutenberg.org/ebooks/13785
