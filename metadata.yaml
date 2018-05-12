@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5218
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13785#The-Glory-of-English-ProseLetters-to-My-Grandson
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
 identifiers:
